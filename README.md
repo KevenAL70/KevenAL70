@@ -1,8 +1,8 @@
 <html>
 <head>
 <style>
-img1{
-margin-left:300px;
+img#img1{
+margin-left:10px;
 margin-top:5px;
 }
 </style>
