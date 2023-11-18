@@ -1,11 +1,5 @@
 <html>
 <head>
-<style>
-img#img1{
-margin-left:30px;
-margin-top:5px;
-}
-</style>
 </head>
 <body>
 <h1 align="center">Seja bem vindo ao meu Github! </h1>
