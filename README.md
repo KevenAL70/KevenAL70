@@ -2,7 +2,7 @@
 <head>
 <style>
 img#img1{
-margin-left:10px;
+margin-left:30px;
 margin-top:5px;
 }
 </style>
