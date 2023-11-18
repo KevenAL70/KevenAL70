@@ -13,7 +13,7 @@ Welcome to my Github!</h1>
 
 <h3 align="center">faço parte do Projeto MaSoluções<span>-</span><img src="MASOLUCÕES.png" width="40px"></h3>
 
-<p  align="center">Estudo-Linux,Rede de Computadores,HTML,CSS, segurança da informação, Ubuntu-Server</p>
+<p  align="center">Estudo-Linux,Rede de Computadores,HTML,CSS, segurança da informação, Ubuntu-Server --Study-Linux, Computer Network, HTML, CSS, information security, Ubuntu-Server</p>
 <br>
 
 <h1 id="redesocial" align="center">Rede Sociais</h1>
