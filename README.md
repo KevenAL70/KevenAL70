@@ -34,5 +34,7 @@
 <br>
 <img src="CERTIFICADO_Redes.jpg" align="center">
 <br>
+<br>
+<img src="Certificado Fundamentos Da TI-0001~2.jpg" align="center">
 </body>
 </html>
