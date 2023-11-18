@@ -9,6 +9,7 @@
 <h3 align="center">Rede de Computadores -EEEP MÁRIO ALENCAR</h3>
 <h3 align="center">faço parte do Projeto MaSoluções<span>-</span><img src="MASOLUCÕES.png" width="40px"></h3>
 <p color="blue" align="center">Estudo-Linux,Rede de Computadores,HTML,CSS, segurança da informação, Ubuntu-Server</p>
+<img1 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png">
 <img src="certificate_1700240516626.jpg" align="center">
 <img src="20231117_190030_070103.jpg" align="center">
 <img src="CERTIFICADO_Redes.jpg" align="center">
