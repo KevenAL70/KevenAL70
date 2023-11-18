@@ -7,7 +7,7 @@
 <h1 align="center">Seja bem vindo ao meu Github!
 Welcome to my Github!</h1>
 
-<h2 align="center">Olá me chamo Keven Almeida Freires  <h3 align="center">Hello, my name is Keven Almeida Freires</h3></h2>
+<h2 align="center">Olá me chamo Keven Almeida Freires  align="center">Hello, my name is Keven Almeida Freires</h2>
 
 <h3 align="center">Rede de Computadores -EEEP MÁRIO ALENCAR</h3>
 
