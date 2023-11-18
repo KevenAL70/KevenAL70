@@ -1,6 +1,12 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+<style>
+img#img1{
+margin:70px;
+}
+</style>
+
 </head>
 <body>
 <h1 align="center">Seja bem vindo ao meu Github! </h1>
