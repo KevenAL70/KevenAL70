@@ -11,5 +11,6 @@
 <p align="center">Estudo-Linux,Rede de Computadores,HTML,CSS, segurança da informação, Ubuntu-Server</p>
 <img src="certificate_1700240516626.jpg" align="center">
 <img src="20231117_190030_070103.jpg" align="center">
+<img src="CERTIFICADO_Redes.jpg" align="center">
 </body>
 </html>
