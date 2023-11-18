@@ -1,4 +1,4 @@
-o<!DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html>
 <head>
   <link rel="stylesheet" type="text/css" href="readme.css"/>
