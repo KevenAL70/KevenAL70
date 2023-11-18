@@ -22,7 +22,7 @@
 
 <p>Contato:<strong>kevenalmeidafreires300@gmail.com</strong>
 
-<br>
+
 <br>
 <br>
 <img src="certificate_1700240516626.jpg" align="center">
