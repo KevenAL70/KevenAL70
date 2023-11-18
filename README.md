@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+o<!DOCTYPE HTML>
 <html>
 <head>
   <link rel="stylesheet" type="text/css" href="readme.css"/>
@@ -42,5 +42,8 @@
 <br>
 <br>
 <img src="Certificado PHP BÁSICO.jpg" align="center">
+<br>
+<br>
+<img src="certificado segurança da informação-0001~2.jpg" align="center">
 </body>
 </html>
