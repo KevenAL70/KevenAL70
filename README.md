@@ -10,8 +10,9 @@
 <h3 align="center">faço parte do Projeto MaSoluções<span>-</span><img src="MASOLUCÕES.png" width="40px"></h3>
 <p color="blue" align="center">Estudo-Linux,Rede de Computadores,HTML,CSS, segurança da informação, Ubuntu-Server</p>
 <br>
-<h1 align="center">Rede Sociais/h1>
+<h1 align="center">Rede Sociais</h1>
 <a href="https://www.instagram.com/kevenalmeida1414/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="50px" align="center"></a>
+<br>
 <img src="certificate_1700240516626.jpg" align="center">
 <img src="20231117_190030_070103.jpg" align="center">
 <img src="CERTIFICADO_Redes.jpg" align="center">
