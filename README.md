@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+  <link rel="stylesheet" type="text/css" href="readme.css"/>
 </head>
 <body>
 <h1 align="center">Seja bem vindo ao meu Github!</h1>
