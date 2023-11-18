@@ -30,6 +30,7 @@
 <br>
 <img src="20231117_190030_070103.jpg" align="center">
 <br>
+<br>
 <img src="CERTIFICADO_Redes.jpg" align="center">
 <br>
 </body>
