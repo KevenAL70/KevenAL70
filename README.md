@@ -39,5 +39,8 @@
 <br>
 <br>
 <img src="CERTIFICADO HTML AVANÇADO-0001~2.jpg" align="center">
+<br>
+<br>
+<img src="Certificado PHP BÁSICO.jpg" align="center">
 </body>
 </html>
