@@ -26,7 +26,10 @@
 <br>
 <br>
 <img src="certificate_1700240516626.jpg" align="center">
+<br>
 <img src="20231117_190030_070103.jpg" align="center">
+<br>
 <img src="CERTIFICADO_Redes.jpg" align="center">
+<br>
 </body>
 </html>
