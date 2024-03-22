@@ -1,0 +1,292 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+header nav div>img{
+    width: 5%;
+    height: 30%;
+}
+
+header nav div a, a.nav-link{
+    color: white;
+}
+
+main h1{
+    text-align: center;
+    margin-top: 5%;
+}
+
+header>nav{
+    box-shadow: 1px 1px 6px white;
+}
+
+header nav div a:hover, a.nav-link:hover{
+    border-bottom: 3px solid white;
+    border-radius: 4px;
+    transition: all 0.9s;
+}
+
+main p#p1{
+    width: 70%;
+ margin: 60px 70px;
+}
+
+main p#p2{
+    width: 50%;
+    text-align: justify;
+    margin: 50px 90px;
+    float: right;
+}
+
+main img#img1{
+    background-attachment: fixed;
+    width: 360px;
+    height: 360px;
+    margin-left: 90px;
+    border-radius: 10px;
+}
+
+main img#img2{
+    display:block;
+    margin-top: 20px;
+    margin-left: 350px;
+    position: relative;
+    left: 20%;
+}
+
+header nav div ul.dropdown-menu{
+    background-color: black;
+}
+
+header nav div ul li>a.dropdown-item{
+    color: white;
+}
+
+main h1#h1{
+    margin-top: -340px;
+}
+
+main p#p3{
+    width: 50%;
+text-align: center;
+margin-top: 20px;
+margin-left: 90px;
+}
+
+main p#p4{
+    width: 50%;
+text-align: center;
+margin-top: -150px;
+margin-left: 90px;
+}
+
+main img#img3{
+    background-attachment: fixed;
+    display: inline-block;
+    border-radius: 10px;
+   width: 400px;
+   height: 400px; 
+   margin-left: 90px;
+   margin-top: 70px;
+}
+
+header>nav button.navbar-toggler{
+color: white;
+border: solid 1px white;
+background-color: rgb(0, 0, 0);
+
+}
+
+
+/*media queries*/
+
+
+
+
+
+@media (min-width: 414px){
+    main img#img1{
+        display:block;
+        width: 360px;
+        height: 360px;
+        margin: 20px auto;
+        border-radius: 10px;
+    }
+
+    header nav{
+        width: 100%;
+    }
+
+    main img#img2{
+        display: block;
+        align-items: center;
+        margin: -10px auto;
+    }
+
+    main h1.h1{
+    margin-top: 120px;
+     }
+
+     main img#img3{
+        background-attachment: fixed;
+        display: block;
+        border-radius: 10px;
+       width: 300px;
+       height: 300px; 
+       margin: 30px auto;
+    }
+
+    main p#p3{
+        display: block;
+        width: 70%;
+       text-align: center;
+       padding-bottom: 190px;
+    }
+    
+    main p#p4{
+        display:block;
+        width: 70%;
+        text-align: center;
+    }
+
+
+
+
+
+      }
+
+      @media (min-width:710px){
+        main img#img1{
+            display:block;
+            width: 360px;
+            height: 360px;
+            margin: 20px auto;
+            border-radius: 10px;
+        }
+
+        main p#p1{
+          text-align: center;
+          width: 80%;
+        }
+
+        main p#p2{
+            width: 80%;
+            text-align: center;
+        }
+
+    
+        header nav{
+            width: 100%;
+        }
+    
+        main img#img2{
+            display: block;
+            
+            margin:  20px 180px;
+        }
+    
+        main h1.h1{
+         padding-top: 420px;
+         }
+    
+         main img#img3{
+            background-attachment: fixed;
+            display: block;
+            border-radius: 10px;
+           width: 300px;
+           height: 300px; 
+           margin: 30px auto;
+        }
+    
+        main p#p3{
+            display: block;
+            width: 80%;
+           text-align: center;
+           padding-bottom: 190px;
+        }
+        
+        main p#p4{
+            display:block;
+            width: 80%;
+            text-align: center;
+        }
+    
+      }
+
+
+      @media (min-width:910px){
+        main img#img1{
+            display:block;
+            width: 360px;
+            height: 360px;
+            margin: 20px auto;
+            border-radius: 10px;
+        }
+
+        main p#p1{
+          text-align: center;
+          width: 80%;
+        }
+
+        main p#p2{
+            width: 80%;
+            text-align: center;
+        }
+
+    
+        header nav{
+            width: 100%;
+        }
+    
+        main img#img2{
+            display: block;
+            
+            margin:  20px 240px;
+        }
+    
+        main h1.h1{
+         padding-top: 420px;
+         }
+    
+         main img#img3{
+            background-attachment: fixed;
+            display: block;
+            border-radius: 10px;
+           width: 300px;
+           height: 300px; 
+           margin: 30px auto;
+        }
+    
+        main p#p3{
+            display: block;
+            width: 80%;
+           text-align: center;
+           padding-bottom: 190px;
+        }
+        
+        main p#p4{
+            display:block;
+            width: 80%;
+            text-align: center;
+        }
+    
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
